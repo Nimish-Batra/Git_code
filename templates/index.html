@@ -1,0 +1,75 @@
+<!-- <!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Number Printer</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            function getNextNumber() {
+                $.get('/next-number', function(data) {
+                    $('#number').text(data);
+                    if (data < 100) {
+                        setTimeout(getNextNumber, 1000);  // Wait 1 second before getting the next number
+                    }
+                });
+            }
+            getNextNumber();  // Start the process
+        });
+    </script>
+</head>
+<body>
+    <h1>Current Number: <span id="number">0</span></h1>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Number Printer</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let currentNumber = 1;  // Start from 1
+            const maxNumber = 100;  // Maximum number to print
+
+            function updateNumber() {
+                if (currentNumber <= maxNumber) {
+                    document.getElementById('number').textContent = currentNumber;
+                    currentNumber++;
+                } else {
+                    clearInterval(intervalId);  // Stop the interval when max number is reached
+                }
+            }
+
+            let intervalId = setInterval(updateNumber, 1000);  // Update every second
+        });
+    </script>
+</head>
+<body>
+    <h1>Current Number: <span id="number">0</span></h1>
+</body>
+</html>
+ --> 
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <title>Number Printer</title>
+     <script>
+         document.addEventListener('DOMContentLoaded', function() {
+             const eventSource = new EventSource('/numbers');
+             eventSource.onmessage = function(event) {
+                 document.getElementById('number').textContent = event.data;
+                 if (event.data === "100") {
+                     eventSource.close();  // Close the connection when 100 is reached
+                 }
+             };
+         });
+     </script>
+ </head>
+ <body>
+     <h1>Current Number: <span id="number">0</span></h1>
+ </body>
+ </html>
+ 
