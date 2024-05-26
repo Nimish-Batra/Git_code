@@ -1,0 +1,25 @@
+2024-05-25 17:53:23,386 - INFO - Function create_or_pass_folder error with flag 0 -- Function create_or_pass_folder error is::Value for one of the query parameters specified in the request URI is invalid.
+RequestId:7ad1d9cb-601e-004f-129e-aeb11e000000
+Time:2024-05-25T12:23:23.4276685Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:7ad1d9cb-601e-004f-129e-aeb11e000000
+Time:2024-05-25T12:23:23.4276685Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error>
+2024-05-25 17:53:23,386 - INFO - Function create_or_pass_folder Error creating folder'akash123': Value for one of the query parameters specified in the request URI is invalid.
+RequestId:7ad1d9cb-601e-004f-129e-aeb11e000000
+Time:2024-05-25T12:23:23.4276685Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:7ad1d9cb-601e-004f-129e-aeb11e000000
+Time:2024-05-25T12:23:23.4276685Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error> 
+2024-05-25 17:53:23,961 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 17:53:23,961 - INFO - User akash123 logged in successfully with flag 1
+2024-05-25 17:53:24,569 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 17:53:25,743 - INFO - table_update route successfully send data with flag 1
+2024-05-25 17:59:05,225 - INFO - table_update route successfully send data with flag 1

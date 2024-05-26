@@ -1,0 +1,53 @@
+2024-05-25 19:27:31,470 - INFO - Function create_or_pass_folder error with flag 0 -- Function create_or_pass_folder error is::Value for one of the query parameters specified in the request URI is invalid.
+RequestId:1c69c7ad-501e-006e-14ab-aedc2f000000
+Time:2024-05-25T13:57:31.7756673Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:1c69c7ad-501e-006e-14ab-aedc2f000000
+Time:2024-05-25T13:57:31.7756673Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error>
+2024-05-25 19:27:31,470 - INFO - Function create_or_pass_folder Error creating folder'akash123': Value for one of the query parameters specified in the request URI is invalid.
+RequestId:1c69c7ad-501e-006e-14ab-aedc2f000000
+Time:2024-05-25T13:57:31.7756673Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:1c69c7ad-501e-006e-14ab-aedc2f000000
+Time:2024-05-25T13:57:31.7756673Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error> 
+2024-05-25 19:27:32,063 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 19:27:32,063 - INFO - User akash123 logged in successfully with flag 1
+2024-05-25 19:27:32,669 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 19:27:33,789 - INFO - table_update route successfully send data with flag 1
+2024-05-25 19:27:38,798 - INFO - table_update route successfully send data with flag 1
+2024-05-25 19:27:43,805 - INFO - table_update route successfully send data with flag 1
+2024-05-25 19:27:48,797 - INFO - table_update route successfully send data with flag 1
+2024-05-25 19:27:53,816 - INFO - table_update route successfully send data with flag 1
+2024-05-25 19:27:58,579 - INFO - table_update route successfully send data with flag 1
+2024-05-25 19:28:00,449 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:01,352 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:01,841 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:02,019 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:02,195 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:02,381 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:02,560 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:02,745 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:02,765 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:02,873 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:03,664 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:03,718 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:04,617 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:05,334 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:05,542 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:05,715 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:05,858 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:06,067 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:09,578 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:09,742 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:09,994 - INFO - Route Eda_Process File name recieve
+2024-05-25 19:28:10,508 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:10,626 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable
+2024-05-25 19:28:10,924 - INFO - Error in Eda_Process with flag 0 -- Eda_Process route error is::Object of type DataFrame is not JSON serializable

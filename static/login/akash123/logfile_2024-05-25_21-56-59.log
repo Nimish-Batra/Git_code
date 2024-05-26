@@ -1,0 +1,64 @@
+2024-05-25 21:57:01,071 - INFO - Function create_or_pass_folder error with flag 0 -- Function create_or_pass_folder error is::Value for one of the query parameters specified in the request URI is invalid.
+RequestId:d9ef97dd-101e-0040-79c0-ae5ce8000000
+Time:2024-05-25T16:27:01.7031733Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:d9ef97dd-101e-0040-79c0-ae5ce8000000
+Time:2024-05-25T16:27:01.7031733Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error>
+2024-05-25 21:57:01,071 - INFO - Function create_or_pass_folder Error creating folder'akash123': Value for one of the query parameters specified in the request URI is invalid.
+RequestId:d9ef97dd-101e-0040-79c0-ae5ce8000000
+Time:2024-05-25T16:27:01.7031733Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:d9ef97dd-101e-0040-79c0-ae5ce8000000
+Time:2024-05-25T16:27:01.7031733Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error> 
+2024-05-25 21:57:01,229 - INFO - Function create_or_pass_folder error with flag 0 -- Function create_or_pass_folder error is::Value for one of the query parameters specified in the request URI is invalid.
+RequestId:c9869561-e01e-005e-64c0-ae8605000000
+Time:2024-05-25T16:27:01.8641700Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:c9869561-e01e-005e-64c0-ae8605000000
+Time:2024-05-25T16:27:01.8641700Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error>
+2024-05-25 21:57:01,230 - INFO - Function create_or_pass_folder Error creating folder'akash123': Value for one of the query parameters specified in the request URI is invalid.
+RequestId:c9869561-e01e-005e-64c0-ae8605000000
+Time:2024-05-25T16:27:01.8641700Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:c9869561-e01e-005e-64c0-ae8605000000
+Time:2024-05-25T16:27:01.8641700Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error> 
+2024-05-25 21:57:01,643 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 21:57:01,643 - INFO - User akash123 logged in successfully with flag 1
+2024-05-25 21:57:01,799 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 21:57:01,800 - INFO - User akash123 logged in successfully with flag 1
+2024-05-25 21:57:02,242 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 21:57:02,391 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 21:57:04,385 - INFO - table_update route successfully send data with flag 1
+2024-05-25 21:57:12,295 - INFO - table_update route successfully send data with flag 1
+2024-05-25 21:57:46,518 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 21:57:50,944 - INFO - table_update route successfully send data with flag 1
+2024-05-25 21:57:55,300 - INFO - table_update route successfully send data with flag 1
+2024-05-25 21:57:59,052 - INFO - table_update route successfully send data with flag 1
+2024-05-25 21:58:00,249 - INFO - Route Eda_Process File name recieve
+2024-05-25 21:58:01,268 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 21:58:08,114 - INFO - Route Eda_Process File name recieve
+2024-05-25 21:58:08,161 - INFO - Route Eda_Process File name recieve
+2024-05-25 21:58:08,359 - INFO - Route Eda_Process File name recieve
+2024-05-25 21:58:09,140 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 21:58:09,202 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 21:58:12,319 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 21:58:35,525 - INFO - Route Eda_Process File name recieve
+2024-05-25 21:58:36,414 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 21:58:51,529 - INFO - Route Eda_Process File name recieve
+2024-05-25 21:58:52,450 - INFO - Route Eda_Process Data Loaded Successfuly.

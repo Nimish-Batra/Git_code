@@ -1,0 +1,42 @@
+2024-05-25 22:05:15,748 - INFO - Function create_or_pass_folder error with flag 0 -- Function create_or_pass_folder error is::Value for one of the query parameters specified in the request URI is invalid.
+RequestId:0792cdd4-501e-0047-4ec1-aeaa6d000000
+Time:2024-05-25T16:35:16.3798684Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:0792cdd4-501e-0047-4ec1-aeaa6d000000
+Time:2024-05-25T16:35:16.3798684Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error>
+2024-05-25 22:05:15,749 - INFO - Function create_or_pass_folder Error creating folder'akash123': Value for one of the query parameters specified in the request URI is invalid.
+RequestId:0792cdd4-501e-0047-4ec1-aeaa6d000000
+Time:2024-05-25T16:35:16.3798684Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:0792cdd4-501e-0047-4ec1-aeaa6d000000
+Time:2024-05-25T16:35:16.3798684Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error> 
+2024-05-25 22:05:16,332 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 22:05:16,332 - INFO - User akash123 logged in successfully with flag 1
+2024-05-25 22:05:16,930 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-25 22:05:17,896 - INFO - table_update route successfully send data with flag 1
+2024-05-25 22:05:24,364 - INFO - table_update route successfully send data with flag 1
+2024-05-25 22:05:25,631 - INFO - Route Eda_Process File name recieve
+2024-05-25 22:05:26,582 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 22:05:27,830 - INFO - Route Eda_Process File name recieve
+2024-05-25 22:05:28,728 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 22:05:43,091 - INFO - Route Eda_Process File name recieve
+2024-05-25 22:05:43,977 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 22:07:15,327 - INFO - table_update route successfully send data with flag 1
+2024-05-25 22:07:16,732 - INFO - Route Eda_Process File name recieve
+2024-05-25 22:07:17,608 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 22:11:45,293 - INFO - table_update route successfully send data with flag 1
+2024-05-25 22:11:47,094 - INFO - Route Eda_Process File name recieve
+2024-05-25 22:11:47,994 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 22:33:20,106 - INFO - table_update route successfully send data with flag 1
+2024-05-25 22:33:24,024 - INFO - Route Eda_Process File name recieve
+2024-05-25 22:33:24,927 - INFO - Route Eda_Process Data Loaded Successfuly.
+2024-05-25 22:36:59,840 - INFO - table_update route successfully send data with flag 1
+2024-05-25 22:38:19,797 - INFO - table_update route successfully send data with flag 1

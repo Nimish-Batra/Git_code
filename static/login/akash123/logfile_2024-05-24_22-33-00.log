@@ -1,0 +1,49 @@
+2024-05-24 22:33:02,442 - INFO - Function create_or_pass_folder error with flag 0 -- Function create_or_pass_folder error is::Value for one of the query parameters specified in the request URI is invalid.
+RequestId:62da08c5-201e-0007-4afc-ad8383000000
+Time:2024-05-24T17:03:02.7989143Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:62da08c5-201e-0007-4afc-ad8383000000
+Time:2024-05-24T17:03:02.7989143Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error>
+2024-05-24 22:33:02,443 - INFO - Function create_or_pass_folder Error creating folder'akash123': Value for one of the query parameters specified in the request URI is invalid.
+RequestId:62da08c5-201e-0007-4afc-ad8383000000
+Time:2024-05-24T17:03:02.7989143Z
+ErrorCode:InvalidQueryParameterValue
+queryparametername:snapshot
+queryparametervalue:akash123
+Content: <?xml version="1.0" encoding="utf-8"?>
+<Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:62da08c5-201e-0007-4afc-ad8383000000
+Time:2024-05-24T17:03:02.7989143Z</Message><QueryParameterName>snapshot</QueryParameterName><QueryParameterValue>akash123</QueryParameterValue></Error> 
+2024-05-24 22:33:02,774 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-24 22:33:02,774 - INFO - User akash123 logged in successfully with flag 1
+2024-05-24 22:33:03,097 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-24 22:33:03,708 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:08,841 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:13,036 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-24 22:33:13,710 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:18,051 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-24 22:33:18,052 - INFO - Function update_when_file_delete Data Loaded Successfully with flag 1
+2024-05-24 22:33:18,052 - INFO - Cogni_button route succeeded with flag 1
+2024-05-24 22:33:18,723 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:24,003 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:28,706 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:33,696 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:35,288 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-24 22:33:38,989 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:40,578 - INFO - Function update_bar_chart_from_blob successfully Return blob_list with flag 1
+2024-05-24 22:33:40,578 - INFO - Function update_when_file_delete Data Loaded Successfully with flag 1
+2024-05-24 22:33:40,579 - INFO - Cogni_button route succeeded with flag 1
+2024-05-24 22:33:43,694 - INFO - table_update route successfully send data with flag 1
+2024-05-24 22:33:52,242 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
+2024-05-24 22:33:53,603 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
+2024-05-24 22:33:56,394 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
+2024-05-24 22:34:37,476 - INFO - summary_input route succeeded with flag 1
+2024-05-24 22:34:45,706 - INFO - Summary cleared successfully with flag 1
+2024-05-24 22:34:49,166 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
+2024-05-24 22:34:49,952 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
+2024-05-24 22:34:50,804 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
+2024-05-24 22:34:51,759 - INFO - Cogservice_Value_Updated route Value updated successfully: 1
